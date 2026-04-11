@@ -6,7 +6,7 @@ A real-time weather application that provides current weather conditions for any
 
 ## 🌐 Live Demo
 
-**Click here to see the live app:** 👉 https://zaheenahamd78.github.io/weather--app/
+**Click here to see the live app:** 👉 https://zaheenahmad78.github.io/weather--app/
 
 ## 📱 Features
 
